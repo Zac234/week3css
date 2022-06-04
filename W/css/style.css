@@ -1,0 +1,19 @@
+ body{
+     background-color: aqua;
+ }
+body>div{
+    color:chartreuse;
+}
+body+article{
+    background-color: aqua;
+}
+
+#link:visited{
+    color: red;
+}
+#link:hover{
+    font-size: large;
+}
+#link:active{
+    color: green;
+}
